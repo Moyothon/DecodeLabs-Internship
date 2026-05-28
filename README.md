@@ -10,8 +10,8 @@ The goal is to analyze and predict house sale prices using the Kaggle House Pric
 - **Target Variable:** SalePrice
 
 ## Project Structure
-DecodeLabs-Internship/         
 ```
+DecodeLabs-Internship/         
 ├── notebooks/
 │   ├── Task_1.ipynb
 │   ├── Task_2.ipynb
